@@ -9,7 +9,7 @@
 
 
 ## Após conectar: 
-ls
+ls, 
 cat readme
 
 ## Explicação: O arquivo readme contém a senha para o próximo nível. Usei "ls" para listar os arquivos e após a listagem, usei "cat" para exibir o conteúdo.
