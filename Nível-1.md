@@ -1,4 +1,4 @@
-# Nível 0 - Bandit
+# Nível 1 - Bandit
 
 ## Objetivo: 
 Conectar via SSH e encontrar a senha para o próximo nível.
