@@ -3,7 +3,7 @@
 ## Objetivo: Conectar via SSH e encontrar a senha para o próximo nível.
 
 ## Comando usado:
-(Bash)
+´´´bash 
 " ssh bandit0@bandit.labs.overthewire.org -p 2220 ", 
 Senha inicial: bandit0
 
